@@ -18,4 +18,5 @@ Kd-parameter for tuning derivative part<br>
 The code uses standard algorithm to smooth and filter the gyro sensor data, otherwise there will be too much jerking. One may use Kalman filter for better filtering but it may introduce complexity in the code. Arduino Mega or better microcontroller is recommended
 
 **For the structure- 3D printed parts are used(designed in solidworks), GrabCad link for STL files will be given soon**
-![Uploading IMG_20210521_075809.jpg…]()
+
+![IMG_20210521_075809](https://user-images.githubusercontent.com/87447678/197686570-1450aeb8-f899-4b87-ab4f-f1f76b5e7233.jpg)
