@@ -1,2 +1,18 @@
 # Self-Balancing-Robot-with-PID-Control
-This project demonstrates how to balance a two-wheeler bot using PID control. 
+**Hardware used-**<br>
+- Arduino Mega<br>
+- mpu6050 gyro sensor<br>
+- LCD display with keypad<br>
+- 12V DC motor<br>
+- 12v lipo battery<br>
+- Sonar sensor(optional-for obstacle avoiding)<br>
+
+The code uses PID control parameters to balance the bot. PID stands for propostional-integral-derivative<br>
+Kp-parameter for tuning proportional part<br>
+Ki-parameter for tuning integral part<br>
+Kd-parameter for tuning derivative part<br>
+***Value of these parameters are choosen by trial and error and then fine tuned for the maximum stability.***
+<br><br>
+The code uses standard algorithm to smooth and filter the gyro sensor data, otherwise there will be too much jerking. One may use Kalman filter for better filtering but it may introduce complexity in the code. Arduino Mega or better microcontroller is recommended
+
+**For the structure- 3D printed parts are used(designed in solidworks), GrabCad link for STL files will be given soon**
