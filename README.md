@@ -3,6 +3,7 @@
 - Arduino Mega<br>
 - mpu6050 gyro sensor<br>
 - LCD display with keypad<br>
+- L298n motor driver<br>
 - 12V DC motor<br>
 - 12v lipo battery<br>
 - Sonar sensor(optional-for obstacle avoiding)<br>
