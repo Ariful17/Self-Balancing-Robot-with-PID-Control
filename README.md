@@ -1,5 +1,6 @@
 # Self-Balancing-Robot-with-PID-Control
 **Hardware used-**<br>
+
 - Arduino Mega<br>
 - mpu6050 gyro sensor<br>
 - LCD display with keypad<br>
@@ -17,3 +18,4 @@ Kd-parameter for tuning derivative part<br>
 The code uses standard algorithm to smooth and filter the gyro sensor data, otherwise there will be too much jerking. One may use Kalman filter for better filtering but it may introduce complexity in the code. Arduino Mega or better microcontroller is recommended
 
 **For the structure- 3D printed parts are used(designed in solidworks), GrabCad link for STL files will be given soon**
+![Uploading IMG_20210521_075809.jpg…]()
